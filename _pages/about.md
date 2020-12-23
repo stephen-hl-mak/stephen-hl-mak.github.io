@@ -12,18 +12,18 @@ I'm Stephen, a PhD Candidate at the University of Cambridge's [Institute for Man
 
 I am particularly excited about how Deep Reinforcement Learning can be used to enable domain experts consider a wider range of possibilities, on problems that are typically combinatorial in nature. There are many examples of these types of problems in Supply Chain Management. Moreover, not only can this help reduce cost for a company, but it can also reduce greenhouse gas emissions as well.
 
-I am now actively looking for PhD Internship opportunities that are well aligned with my PhD research.
+I am now actively looking for PhD Internship opportunities that are complementary with my PhD research.
 
 Industrial Experience
 =====
 Prior to my PhD, I worked at Rolls-Royce, applying a variety of data science and deep learning techniques towards the aerospace industry. 
 
-I particularly enjoyed applying data science (and Systems Engineering) to aid root cause analysis for the [Trent 700 Sulphidation problem](https://www.cad.gov.hk/english/safetylinks1.html); as well as performing analysis to aid certification of the [Trent 1000's re-designed High Pressure Compressor blades](https://www.rolls-royce.com/products-and-services/civil-aerospace/airlines/trent-1000-updates-hub.aspx#section-copy-of-modules3). 
+I particularly enjoyed applying data science (and Systems Engineering) to aid root cause analysis for the [Trent Sulphidation problem](https://www.theengineer.co.uk/rolls-royce-problems-trent-1000/); as well as performing analysis to aid certification of the [Trent 1000's re-designed Compressor blades](https://www.rolls-royce.com/products-and-services/civil-aerospace/airlines/trent-1000-updates-hub.aspx#section-copy-of-modules).
 
 I enjoyed these opportunities as: 
 1. It was fast-paced (and under significant business pressure!)
 2. No one in the world knew the correct answer
-3. I was able to learn from some of the best Engineers in Rolls-Royce.
+3. I was able to learn from some of the best Engineers at Rolls-Royce.
 
 
 <!-- 
