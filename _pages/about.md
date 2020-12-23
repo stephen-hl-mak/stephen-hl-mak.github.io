@@ -12,7 +12,7 @@ I'm Stephen, a PhD Candidate at the University of Cambridge's [Institute for Man
 
 I am particularly excited about how Deep Reinforcement Learning can be used to enable domain experts consider a wider range of possibilities, on problems that are typically combinatorial in nature. There are many examples of these types of problems in Supply Chain Management. Moreover, not only can this help reduce cost for a company, but it can also reduce greenhouse gas emissions as well.
 
-I am now actively looking for PhD Internship opportunities that are complementary with my PhD research.
+I am now actively looking for PhD Internship opportunities that complement my PhD research.
 
 Industrial Experience
 =====
