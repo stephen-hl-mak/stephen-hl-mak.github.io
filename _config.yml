@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Stephen Mak / Site Title"
+title                    : "Stephen Mak"
 title_separator          : "-"
 name                     : &name "Stephen Mak"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Stephen Mak"
-  avatar           : "profile.png"
+  avatar           : "ProfilePictureCropped.png"
   bio              : "PhD in Applied Deep Reinforcement Learning"
   location         : "Cambridge, UK"
   employer         :
