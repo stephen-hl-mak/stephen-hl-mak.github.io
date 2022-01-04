@@ -8,23 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I'm Stephen, a PhD Candidate at the University of Cambridge's [Institute for Manufacturing](https://www.ifm.eng.cam.ac.uk/). My research focuses on applying Deep Reinforcement Learning towards Logistics and Transportation.
+I'm Stephen Mak, a PhD Candidate at the University of Cambridge's [Institute for Manufacturing](https://www.ifm.eng.cam.ac.uk/).
 
-I am particularly excited about how Deep Reinforcement Learning can be used to enable domain experts consider a wider range of possibilities, on problems that are typically combinatorial in nature. There are many examples of these types of problems in Supply Chain Management. Moreover, not only can this help reduce cost for a company, but it can also reduce greenhouse gas emissions as well.
+I'm excited by all things (Multi-Agent) Reinforcement Learning (and more broadly, Artificial Intelligence). In my PhD, I tackle the "Collaborative Vehicle Routing Problem" (see my NeurIPS '21 Cooperative AI Workshop paper) [here](https://drive.google.com/file/d/1B4t9NPdww9BijMLyn-C3AeG5As0urgVH/view). Here, we incentivise (self-interested) delivery companies to collaborate through sharing their delivery information. We pose the problem as a coalitional bargaining game, but prior cooperative game theoretic techniques are too computationally expensive. Thus, we use neural networks to approximate the characteristic function and train these agents using deep multi-agent reinforcement learning (Independent Proximal Policy Optimisation).
 
-I am now actively looking for PhD Internship opportunities that complement my PhD research.
+Prior to my PhD, I worked at Rolls-Royce where I was able to tackle some of the toughest aerospace engineering challenges with data science. In the future, I hope to continue to research about reinforcement learning applied to challenging industrial problems such as finance.
 
-Industrial Experience
-=====
-Prior to my PhD, I worked at Rolls-Royce, applying a variety of data science and deep learning techniques towards the aerospace industry. 
+---
+permalink: /
+title: "Blog Posts"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-I particularly enjoyed applying data science (and Systems Engineering) to aid root cause analysis for the [Trent Sulphidation problem](https://www.theengineer.co.uk/rolls-royce-problems-trent-1000/); as well as performing analysis to aid certification of the [Trent 1000's re-designed Compressor blades](https://www.rolls-royce.com/products-and-services/civil-aerospace/airlines/trent-1000-updates-hub.aspx#section-copy-of-modules).
-
-I enjoyed these opportunities as: 
-1. It was fast-paced (and under significant business pressure!)
-2. No one in the world knew the correct answer
-3. I was able to learn from some of the best Engineers at Rolls-Royce.
-
+Coming soon!
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
