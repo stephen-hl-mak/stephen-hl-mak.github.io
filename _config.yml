@@ -10,8 +10,8 @@ locale                   : "en-UK"
 title                    : "Stephen Mak"
 title_separator          : "-"
 name                     : &name "Stephen Mak"
-description              : &description "personal description"
-url                      : https://stephen-hl-mak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD Candidate at University of Cambridge"
+url                      : https://stephenmak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stephen-hl-mak/stephen-hl-mak.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Stephen Mak"
   avatar           : "ProfilePictureCropped.png"
-  bio              : "PhD in Applied Deep Reinforcement Learning"
+  bio              : "PhD in Deep Multi Agent Reinforcement Learning"
   location         : "Cambridge, UK"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "sm2410 [at] cam [dot] ac [dot] uk"
-  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Stephen_Mak4" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
