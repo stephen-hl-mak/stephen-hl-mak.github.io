@@ -21,7 +21,7 @@ Side Projects
 
 1) Creating my own AI Scientist (Multi-Agent LLMs & RAG) to help me keep up to date with AI. Write-up coming soon!
 
-2) Neural rendering / Gaussian splats of my wedding ceremony, taken from 6 different viewpoints! Imagine being able to re-live that day in virtual reality thanks to ML!
+2) Neural rendering / Gaussian splats of my wedding ceremony, taken from 6 different cameras! Imagine being able to re-live that day in virtual reality thanks to ML!
 
 
 <!-- 
