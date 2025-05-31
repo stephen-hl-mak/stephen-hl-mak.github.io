@@ -10,8 +10,8 @@ locale                   : "en-UK"
 title                    : "Stephen Mak"
 title_separator          : "-"
 name                     : &name "Stephen Mak"
-description              : &description "PhD Candidate at University of Cambridge"
-url                      : https://stephenmak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Data Scientist at Tesco"
+url                      : https://stephen-hl-mak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stephen-hl-mak/stephen-hl-mak.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Stephen Mak"
   avatar           : "ProfilePictureCropped.png"
-  bio              : "PhD in Deep Multi Agent Reinforcement Learning"
+  bio              : "Data Scientist at Tesco, PhD in Multi-Agent Reinforcement Learning"
   location         : "Cambridge, UK"
-  employer         :
+  employer         : 
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "sm2410 [at] cam [dot] ac [dot] uk"
+  googlescholar    : "https://scholar.google.com/citations?user=MutMC4kAAAAJ&hl=en"
+  email            : "sm2410 [at] cantab [dot] ac [dot] uk"
   researchgate     :  "https://www.researchgate.net/profile/Stephen_Mak4" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  # twitter          : "replacethistwitterhandle"
+  twitter          : "StephenMak7"
   vine             :
   weibo            :
   xing             :
