@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there!"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm Stephen Mak, a PhD Candidate at the University of Cambridge's [Institute for Manufacturing](https://www.ifm.eng.cam.ac.uk/). I'm excited by all things (Multi-Agent) Reinforcement Learning (and more broadly, Artificial Intelligence).
+I'm a Data Scientist at Tesco's Personalisation team, leading the delivery of [Your Clubcard Prices](https://www.thesun.co.uk/money/33181430/tesco-clubcard-change-your-prices-extra-money-discounts/). Broadly, I am excited about delivering real-world business value through modelling problems under the different lenses of reinforcement learning, [systems engineering](https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf), and design thinking. Particularly, with LLMs bringing more general capabilities to RL, I'm curious to see where agentic AI will go.
 
-In my PhD, I tackle the "Collaborative Vehicle Routing Problem" [(see my NeurIPS '21 Cooperative AI Workshop paper)](https://drive.google.com/file/d/1B4t9NPdww9BijMLyn-C3AeG5As0urgVH/view). Here, we incentivise (self-interested) delivery companies to collaborate through sharing their delivery information. We pose the problem as a coalitional bargaining game, but prior cooperative game theoretic tools, e.g. Shapley values, are too computationally expensive. Thus, we use neural networks to approximate the characteristic function and train these agents using deep multi-agent reinforcement learning (Independent Proximal Policy Optimisation).
+**Research.** I completed my PhD from the [University of Cambridge](https://www.linkedin.com/company/supply-chain-ai-lab) where my research focused on deep multi-agent reinforcement learning for real-world settings. At a high level, I trained agents to **negotiate** with one-another in mixed-motive settings, placing heavy emphasis on rigorously evaluating learnt agent behaviour. More broadly, the intersection of MARL and game theory allows for truly scalable methods. I wish I did my PhD post-ChatGPT, but I'm excited to see the additional flavour agentic AI will bring to negotiation — particularly multi-issue and multi-lateral.
 
-Prior to my PhD, I worked at Rolls-Royce where I was fortunate enough to tackle some of the toughest aerospace engineering challenges using data science. In the future, I hope to continue to research about reinforcement learning applied to challenging industrial problems such as finance.
 
-Blog Posts
+**Previously.** I completed an internship at [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) where I applied deep reinforcement learning towards inventory management, delivering \$XX millions a year in cost savings. Prior to my PhD, I was a Data Engineer at Rolls-Royce where I worked on predictive maintenance in their [R² Data Labs](https://www.rolls-royce.com/media/press-releases/2017/12-12-2017-rr-launches-r2-data-labs-to-accelerate-data-innovation.aspx), as well as a Research Engineer working on computer vision within the [Future Intelligence Team](https://www.rolls-royce.com/country-sites/sea/our-stories/2021/tapping-ai-technologies-to-create-solutions-of-tomorrow.aspx). 
+
+p.s. [Systems Engineering](https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf) (and systems thinking) is highly important to Rolls-Royce, to avoid solutioneering (getting carried away with technical details, instead of delivering what stakeholders want — I'm looking at you, Agentic AI).  It's perhaps the best lesson I've been taught!
+
+Side Projects
 =======
 
-Coming soon!
+1) Creating my own AI Scientist (Multi-Agent LLMs & RAG) to help me keep up to date with AI. Write-up coming soon!
+
+2) Neural rendering / Gaussian splats of my wedding ceremony (taken from 6 different cameras) :)
 
 
 <!-- 
